@@ -1,0 +1,7 @@
+neue Datei nach dem Zusammenfügen der beiden Zweige
+
+sorgt für einen neuen Abschnit
+wenn ein commit ausgeführt wird.
+
+g.s.
+heute
