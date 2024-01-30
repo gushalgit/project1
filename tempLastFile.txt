@@ -3,5 +3,6 @@ neue Datei nach dem Zusammenfügen der beiden Zweige
 sorgt für einen neuen Abschnit
 wenn ein commit ausgeführt wird.
 
+Zeile ergänzt direkt auf github. 
+
 g.s.
-heute
