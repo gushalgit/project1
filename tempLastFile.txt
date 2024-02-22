@@ -6,3 +6,5 @@ wenn ein commit ausgeführt wird.
 Zeile ergänzt direkt auf github. 
 
 g.s.
+
+Hinweis: Datei angepasst zwecks Test für github.
